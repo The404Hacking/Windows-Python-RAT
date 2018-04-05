@@ -43,7 +43,19 @@ Download [Python](https://python.org) Version 2.7.13: Click [Here](https://www.p
 >> Download [for Windows (.msi)](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)
 -------------------------------
 # Install Python
-Learning Install Python on Linux Ubuntu and Mint: Click [Here](https://t.me/The404Hacking/528)
+Learning Install Python on Microsoft Windows: Click [Here](https://t.me/The404Hacking/528)
+
+-------------------------------
+# Module in Python
+To use the **Windows-Python-RAT**, you need to install the following modules in your python.
+
+For automatic installation, you can first open the `Setup.py` file and select the `[1] Install Module` option.
+
+To install the modules manually, simply enter the commands for installing each module in your `CMD` or `Terminal`.
+
+*Module List:*
+
+* Number one
 
 -------------------------------
 Logo:
