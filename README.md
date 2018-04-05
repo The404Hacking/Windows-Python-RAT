@@ -36,13 +36,14 @@ Video Tutorial Setting Up a Startup on a RAT: [Watch]()
 [PubIP](https://github.com/The404Hacking/PubIP/) requires Python version 2.7.x
 
 Download [Python](https://python.org) Version 2.7.13: Click [Here](https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz)
-
-
+-------------------------------
 # Download Python
 > [Python 2.7.14 - 2017-09-16](https://www.python.org/downloads/release/python-2714/)
->> Download [XZ compressed source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tar.xz)
+>> Download [for Windows (.msi)](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)
+-------------------------------
+# Install Python
+Learning Install Python on Linux Ubuntu and Mint: Click [Here](https://t.me/The404Hacking/528)
 
->> Download [Gzipped source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz)
 -------------------------------
 Logo:
 
