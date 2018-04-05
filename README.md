@@ -9,7 +9,7 @@ Powered By The404Hacking
 Digital Security ReSearch Group
 -------------------------------
 Logo:
-[Windows-Python-RAT Logo](https://raw.githubusercontent.com/The404Hacking/Windows-Python-RAT/screen/Windows-Python-RAT.jpg)
+![Windows-Python-RAT Logo](Windows-Python-RAT.jpg?raw=true "Windows-Python-RAT Logo")
 
 Setup ScreenShot:
 ![Setup ScreenShot](/images/Setup.png?raw=true "Setup ScreenShot")
