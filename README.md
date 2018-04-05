@@ -80,7 +80,7 @@ To install the modules manually, simply enter the commands for installing each m
 > Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 -------------------------------
-# Module in Python
+# AutoPy Module in Python
 learning Install AutoPy Module on Python 2: [Watch]()
 
 Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile Sever](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
