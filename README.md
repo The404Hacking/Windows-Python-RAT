@@ -16,6 +16,7 @@ To replace your robot Token in RAT, simply go to Line 35 in the **wWindows-Pytho
 
 In Line 35:
 ```python
+#Replace Your Bot API-TOKEN
 update = Updater("TOKEN")
 ```
 
