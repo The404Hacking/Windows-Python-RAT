@@ -10,7 +10,16 @@
 <h5>Digital Security ReSearch Group</h5>
 
 -------------------------------
+# Set Bot API-Token
 
+To replace your robot Token in RAT, simply go to Line 35 in the **wWindows-Python-RAT.py** file and place your API-TOKEN instead of `TOKEN`.
+
+In Line 35:
+```python
+update = Updater("TOKEN")
+```
+
+-------------------------------
 Logo:
 
 ![Windows-Python-RAT Logo](Windows-Python-RAT.jpg?raw=true "Windows-Python-RAT Logo")
