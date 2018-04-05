@@ -81,9 +81,9 @@ To install the modules manually, simply enter the commands for installing each m
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 -------------------------------
 # AutoPy Module in Python
-learning Install AutoPy Module on Python 2: [Watch]()
+learning Install AutoPy Module on Python 2: [Watch](https://www.aparat.com/v/ULPHV)
 
-Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile Sever](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
+Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 
 -------------------------------
@@ -102,9 +102,6 @@ RAT Control Panel [@W_P_RAT_Bot](https://T.me/W_P_RAT_Bot):
 ![RAT Control Panel ScreenShot1](CP1.png?raw=true "RAT Control Panel ScreenShot1")
 
 ![RAT Control Panel ScreenShot2](CP2.png?raw=true "RAT Control Panel ScreenShot2")
-
-
-
 
 
 # Download and Clone
