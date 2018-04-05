@@ -55,8 +55,21 @@ To install the modules manually, simply enter the commands for installing each m
 
 *Module List:*
 
-* Number one
+* Upgrade pip
+> python -m pip install --upgrade pip
 
+* Python Telegram Bot (Telegram API for Python)
+> python -m pip install python-telegram-bot
+
+* Pyttsx (for Play Voice)
+> python -m pip install pyttsx
+
+* PyInstaller (for Compile py file)
+> python -m pip install pyinstaller
+
+* Autopy (for Take Screenshot)
+> Download from [Telegram Channel](https://T.me/The404Hacking/0000) or [PicoFile Sever](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
+Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 -------------------------------
 Logo:
 
