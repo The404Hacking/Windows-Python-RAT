@@ -32,7 +32,7 @@ import pyttsx
 import autopy
 # ------------------------------------------------------------------------
 #Replace Your Bot API-TOKEN
-update = Updater("586363223:AAHSLdPnAE60avs_T25l_HjzRahtw6PhxDY")
+update = Updater("TOKEN")
 # ------------------------------------------------------------------------
 # /start
 def start_method(bot , update):
