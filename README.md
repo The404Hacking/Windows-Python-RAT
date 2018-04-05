@@ -19,6 +19,9 @@ In Line 35:
 #Replace Your Bot API-TOKEN
 update = Updater("TOKEN")
 ```
+Example for Replace Token:
+
+![Replace Token](Token.png?raw=true "Replace Token")
 -------------------------------
 # StartUP Settings
 
