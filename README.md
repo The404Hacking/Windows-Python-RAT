@@ -1,9 +1,9 @@
 # Windows-Python-RAT
 ## Microsoft Windows Remote Administrator Tool
 
-<h5><b>Language:</b> Python</h5>
-<h5><b>Coder:</b> Sir.4m1R</h5>
-<h5><b>Developer:</b> Hanieh Panahi</h5>
+<h5>Language: Python</h5>
+<h5>Coder: Sir.4m1R</h5>
+<h5>Developer: Hanieh Panahi</h5>
 ------------------------
 Powered By The404Hacking
 Digital Security ReSearch Group
