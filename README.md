@@ -13,8 +13,9 @@
 -------------------------------
 # Robot for initial Windows-Python-RAT testing
 
-<h5>Bot ID:</h5> [@W_P_RAT_Bot](https://t.me/W_P_RAT_Bot)
-<h5>Token:</h5> `586363223:AAHSLdPnAE60avs_T25l_HjzRahtw6PhxDY`
+Bot ID: [@W_P_RAT_Bot](https://t.me/W_P_RAT_Bot)
+
+Token: `586363223:AAHSLdPnAE60avs_T25l_HjzRahtw6PhxDY`
 
 -------------------------------
 # Set Bot API-Token
