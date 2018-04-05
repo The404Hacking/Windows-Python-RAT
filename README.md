@@ -12,13 +12,16 @@
 -------------------------------
 
 Logo:
+
 ![Windows-Python-RAT Logo](Windows-Python-RAT.jpg?raw=true "Windows-Python-RAT Logo")
 
 Setup ScreenShot:
-![Setup ScreenShot](/images/Setup.png?raw=true "Setup ScreenShot")
 
-RAT Control Panel [@Bot]:
-![RAT Control Panel ScreenShot](/images/CP.png?raw=true "RAT Control Panel ScreenShot")
+![Setup ScreenShot](Setup.png?raw=true "Setup ScreenShot")
+
+RAT Control Panel [@W_P_RAT_Bot](https://T.me/W_P_RAT_Bot):
+
+![RAT Control Panel ScreenShot](CP.png?raw=true "RAT Control Panel ScreenShot")
 
 
 
