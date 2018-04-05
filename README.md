@@ -77,13 +77,13 @@ To install the modules manually, simply enter the commands for installing each m
 > python -m pip install pyinstaller
 
 * Autopy (for Take Screenshot)
-> Download from [Telegram Channel](https://T.me/The404Hacking/0000) or [PicoFile](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
+> Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 -------------------------------
 # Module in Python
 learning Install AutoPy Module on Python 2: [Watch]()
 
-Download from [Telegram Channel](https://T.me/The404Hacking/0000) or [PicoFile Sever](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
+Download from [Telegram Channel](https://t.me/The404Hacking/3317) or [PicoFile Sever](http://s9.picofile.com/file/8323038234/autopy_The404Hacking_.rar.html) and Click on Autopy.exe for Install.
 Password `autopy-[@The404Hacking].rar` File is: **@The404Hacking**
 
 -------------------------------
