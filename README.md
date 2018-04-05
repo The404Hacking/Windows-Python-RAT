@@ -49,7 +49,7 @@ Learning Install Python on Microsoft Windows: Click [Here](https://t.me/The404Ha
 # Module in Python
 To use the **Windows-Python-RAT**, you need to install the following modules in your python.
 
-For automatic installation, you can first open the `Setup.py` file and select the `[1] Install Module` option.
+For automatic installation, you can first open the **Setup.py** (`python Setup.py`) file and select the `[1] Install Module` option.
 
 To install the modules manually, simply enter the commands for installing each module in your `CMD` or `Terminal`.
 
