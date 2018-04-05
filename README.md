@@ -5,8 +5,10 @@
 <h5>Coder: Sir.4m1R</h5>
 <h5>Developer: Hanieh Panahi</h5>
 ------------------------
-Powered By The404Hacking
-Digital Security ReSearch Group
+
+<h5>Powered By The404Hacking</h5>
+<h5>Digital Security ReSearch Group</h5>
+
 -------------------------------
 
 Logo:
