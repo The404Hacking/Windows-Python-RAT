@@ -97,10 +97,10 @@ git clone ‎https://github.com/The404Hacking/Windows-Python-RAT.git
 cd Windows-Python-RAT
 python Setup.py
 ```
-+ Windows
++ Windows:
 ```
 Download from ‎https://github.com/The404Hacking/Windows-Python-RAT/archive/master.zip
-Windows-Python-RAT.zip
+Windows-Python-RAT-master.zip
 Extract files.
 cd Windows-Python-RAT
 python Setup.py
