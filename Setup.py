@@ -115,8 +115,8 @@ elif number == 4:
 elif number == 5:
 	clear()
 	installer = '''
- Welcome to Compiler [py2exe]
- ----------------------------
+ Welcome to Compiler [PyInstaller]
+ ---------------------------------
  Select a Method:
  [1] Console
  [2] No-Console'''
