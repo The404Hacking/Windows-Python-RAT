@@ -3,7 +3,7 @@
 
 <h5>Language: Python</h5>
 <h5>Coder: Sir.4m1R</h5>
-<h5>Developer: Sina Moghimi</h5>
+<h5>Developer: Ahoora Mansouri</h5>
 
 ------------------------
 
